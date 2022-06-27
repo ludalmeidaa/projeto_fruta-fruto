@@ -1,0 +1,7 @@
+.rodape {
+    background-color: var(--branco__rodape);
+    color: var(--branco__banner);
+    text-align: right;
+    padding: 1.5625rem 5rem;
+    text-transform: lowercase;
+}

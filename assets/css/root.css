@@ -1,0 +1,15 @@
+:root {
+    --branco: #FFFFFF;
+    --branco_cabecalho: #f9f9f9;
+    --branco__receitas: #e5e5e5;
+    --branco__banner: #fdfdfd;
+    --branco__rodape: #bfbfbf;
+    --cinza__menu: #808080;
+    --cinza__escuro: #333333;
+    --cinza__funcao: #595959;
+    --vermelho__vinho: #8d0606;
+    --vermelho__vinho--hover: #620404;
+
+    --fonte__base: Pacifico, cursive;
+
+}

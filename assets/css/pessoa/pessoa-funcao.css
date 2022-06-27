@@ -1,0 +1,5 @@
+.pessoa__funcao {
+    color: var(--cinza__funcao);
+    text-transform: lowercase;
+    font-size: 1.25rem;
+}
