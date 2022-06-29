@@ -11,5 +11,3 @@
   <li>Organização de assets de um projeto</li
 </ul>
 
-<h2> Link do deploy </h2>
-<a href="https://projeto-fruta-fruto-tau.vercel.app/">Fruta & Fruto</a>
